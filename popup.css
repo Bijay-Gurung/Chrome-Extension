@@ -1,7 +1,21 @@
-*{
+.mainSec {
+    width: 200px;
+    padding: 10px;
+}
+
+.interact{
     height: 200px;
     width: 200px;
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+    border-radius: 9px;
+    background-image: url("Yap.gif");
+    background-position: center;
+    background-size: cover;
+    display: none;
+}
+
+.btn{
+    background-color: #FDDC76;
+    height: 30px;
+    width: 180px;
+    border-radius: 9px;
 }
