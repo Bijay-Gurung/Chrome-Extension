@@ -19,3 +19,11 @@
     width: 180px;
     border-radius: 9px;
 }
+
+.white{
+    height: 30px;
+    width: 180px;
+    background-color: #fff;
+    position: relative;
+    bottom: 20px;
+}
